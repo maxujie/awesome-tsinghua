@@ -2,7 +2,7 @@
 
 长期建设中...
 
-## SIDE A
+## A SIDE
 
 - [thuthesis](https://github.com/xueruini/thuthesis) LaTeX Thesis Template for Tsinghua University
 - [net.tsinghua](https://github.com/ThomasLee969/net.tsinghua) A cross-platform auto-login utility for Tsinghua students <http://net.tsinghua.io>
@@ -11,7 +11,7 @@
 - [Tsinghua-UWP](https://github.com/lizy14/Tsinghua-UWP) 清华磁贴 for UWP：校历、课表、作业提醒
 - [Tsinghua-Web-Learning-Reminder](https://github.com/heyeshuang/Tsinghua-Web-Learning-Reminder) 使用Google App Engine，将网络学堂的所有通知发送至邮箱。
 
-## SIDE B
+## B SIDE
 
 - [fakeTunet](https://github.com/tuna/fakeTunet) a fake net.tsinghua.edu.cn
 - [TsinghuaPortalRss](https://github.com/YongkaiWu/TsinghuaPortalRss) 清华大学信息门户订阅
