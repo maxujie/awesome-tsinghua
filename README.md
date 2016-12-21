@@ -6,12 +6,10 @@
 
 - [thuthesis](https://github.com/xueruini/thuthesis) LaTeX Thesis Template for Tsinghua University
 - [net.tsinghua](https://github.com/ThomasLee969/net.tsinghua) A cross-platform auto-login utility for Tsinghua students <http://net.tsinghua.io>
-- [TCSM](https://github.com/JimmyZJX/TCSM) Tsinghua Course Selection Machine
 - [TsinghuaCourseHelper](https://github.com/lockehamann/TsinghuaCourseHelper) 清华选课系统工具箱
 - [thucal2](https://github.com/summivox/thucal2)  Tsinghua University curriculum -> iCalendar format (.ics) -> Google Calendar, etc.
 - [Tsinghua-UWP](https://github.com/lizy14/Tsinghua-UWP) 清华磁贴 for UWP：校历、课表、作业提醒
 - [Tsinghua-Web-Learning-Reminder](https://github.com/heyeshuang/Tsinghua-Web-Learning-Reminder) 使用Google App Engine，将网络学堂的所有通知发送至邮箱。
-- [download-tsinghua-wangluoxuetang](https://github.com/tianyang-li/download-tsinghua-wangluoxuetang) 把网络学堂里面的东西批量全部下载下来
 
 ## SIDE B
 
