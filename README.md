@@ -5,7 +5,7 @@
 长期建设中..
 
 
-- [THU-Scratch 清华成绩刮刮乐](https://github.com/summivox/thu-scratch)
+- [THU-Scratch](https://github.com/summivox/thu-scratch)  清华成绩刮刮乐
 - [qinghua-bot_xiaotu]( https://github.com/DrayChou/qinghua-bot_xiaotu)  清华大学图书馆机器人小图的一些问答记录
 - [TsinghuaCourseHelper](https://github.com/lockehamann/TsinghuaCourseHelper) 清华选课系统工具箱
 - [thuIntro](https://github.com/FrankHan/thuIntro) 简易版清华校史
