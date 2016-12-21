@@ -4,7 +4,6 @@
 
 长期建设中..
 
----
 
 - [THU-Scratch 清华成绩刮刮乐](https://github.com/summivox/thu-scratch)
 - [qinghua-bot_xiaotu]( https://github.com/DrayChou/qinghua-bot_xiaotu)  清华大学图书馆机器人小图的一些问答记录
