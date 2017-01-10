@@ -8,6 +8,7 @@
 - [net.tsinghua](https://github.com/ThomasLee969/net.tsinghua) A cross-platform auto-login utility for Tsinghua students <http://net.tsinghua.io>
 - [TsinghuaCourseHelper](https://github.com/lockehamann/TsinghuaCourseHelper) 清华选课系统工具箱
 - [thucal2](https://github.com/summivox/thucal2)  Tsinghua University curriculum -> iCalendar format (.ics) -> Google Calendar, etc.
+- [EasySeminar](https://github.com/eesast/EasySeminar) 清华大学文化素质教育讲座信息iCal（貌似新生已经不是必须听讲座了。。。） 
 - [Tsinghua-UWP](https://github.com/lizy14/Tsinghua-UWP) 清华磁贴 for UWP：校历、课表、作业提醒
 - [Tsinghua-Web-Learning-Reminder](https://github.com/heyeshuang/Tsinghua-Web-Learning-Reminder) 使用Google App Engine，将网络学堂的所有通知发送至邮箱。
 
