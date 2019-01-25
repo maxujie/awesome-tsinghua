@@ -5,7 +5,8 @@
 ## A SIDE
 
 - [thuthesis](https://github.com/xueruini/thuthesis) LaTeX Thesis Template for Tsinghua University
-- [net.tsinghua](https://github.com/ThomasLee969/net.tsinghua) A cross-platform auto-login utility for Tsinghua students <http://net.tsinghua.io>
+- [CampNet](https://github.com/clumsyLee/CampNet) 通用 iOS 校园网助手
+- [net.tsinghua](https://github.com/clumsyLee/net.tsinghua) A cross-platform auto-login utility for Tsinghua students <http://net.tsinghua.io>
 - [TsinghuaCourseHelper](https://github.com/lockehamann/TsinghuaCourseHelper) 清华选课系统工具箱
 - [thucal2](https://github.com/summivox/thucal2)  Tsinghua University curriculum -> iCalendar format (.ics) -> Google Calendar, etc.
 - [EasySeminar](https://github.com/eesast/EasySeminar) 清华大学文化素质教育讲座信息iCal（貌似新生已经不是必须听讲座了。。。） 
